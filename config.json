@@ -3,6 +3,6 @@
     "localPort": 1080,
     "serverAddress":"0.0.0.0",
     "serverPort": 65432,
-    "password": "shadowsocks-over-websocket",
-    "method": "aes-256-cfb"
+    "password": "pass",
+    "method": "ac4-md5"
 }
