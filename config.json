@@ -4,5 +4,5 @@
     "serverAddress":"0.0.0.0",
     "serverPort": 65432,
     "password": "pass",
-    "method": "ac4-md5"
+    "method": "rc4-md5"
 }
